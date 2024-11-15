@@ -6,7 +6,7 @@ Moto:
 
 About the project:
 1) data_example is the sample file consisting about 300 rows which was extracted by webScraping.
-2) After analying the data which was done in previous project : Analyze_JSON , we have created a databse which is saas-schema.sql
+2) After analying the data which was done in previous project : https://github.com/hargunYashkumar/yash_saasKart.git , we have created a databse which is saas-schema.sql
 3) Now we will insert the same rows of json int o the databse and foe which the script is all_in_one.py
 4) all_in_one.py script also helps to change datatype and clean it to insert it int o the schema.
 
